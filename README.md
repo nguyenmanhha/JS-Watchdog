@@ -1,1 +1,1 @@
-# JsWatchdog
+# JS-Watchdog
